@@ -1,0 +1,95 @@
+[11-May-2022 09:40:30 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer\PHPMailer\PHPMailer' not found in /home3/jaspuebl/public_html/control/sendMail.php:9
+Stack trace:
+#0 /home3/jaspuebl/public_html/control/sendMail.php(29): sendMail(1, 'ortizjg30@gmail...')
+#1 {main}
+  thrown in /home3/jaspuebl/public_html/control/sendMail.php on line 9
+[11-May-2022 09:40:48 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer\PHPMailer\PHPMailer' not found in /home3/jaspuebl/public_html/control/sendMail.php:9
+Stack trace:
+#0 /home3/jaspuebl/public_html/control/sendMail.php(29): sendMail(1, 'ortizjg30@gmail...')
+#1 {main}
+  thrown in /home3/jaspuebl/public_html/control/sendMail.php on line 9
+[11-May-2022 09:40:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer\PHPMailer\PHPMailer' not found in /home3/jaspuebl/public_html/control/sendMail.php:9
+Stack trace:
+#0 /home3/jaspuebl/public_html/control/sendMail.php(29): sendMail(1, 'ortizjg30@gmail...')
+#1 {main}
+  thrown in /home3/jaspuebl/public_html/control/sendMail.php on line 9
+[11-May-2022 09:40:51 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer\PHPMailer\PHPMailer' not found in /home3/jaspuebl/public_html/control/sendMail.php:9
+Stack trace:
+#0 /home3/jaspuebl/public_html/control/sendMail.php(29): sendMail(1, 'ortizjg30@gmail...')
+#1 {main}
+  thrown in /home3/jaspuebl/public_html/control/sendMail.php on line 9
+[11-May-2022 09:40:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer\PHPMailer\PHPMailer' not found in /home3/jaspuebl/public_html/control/sendMail.php:9
+Stack trace:
+#0 /home3/jaspuebl/public_html/control/sendMail.php(29): sendMail(1, 'ortizjg30@gmail...')
+#1 {main}
+  thrown in /home3/jaspuebl/public_html/control/sendMail.php on line 9
+[11-May-2022 09:41:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer\PHPMailer\PHPMailer' not found in /home3/jaspuebl/public_html/control/sendMail.php:9
+Stack trace:
+#0 /home3/jaspuebl/public_html/control/sendMail.php(29): sendMail(1, 'ortizjg30@gmail...')
+#1 {main}
+  thrown in /home3/jaspuebl/public_html/control/sendMail.php on line 9
+[11-May-2022 09:41:27 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer\PHPMailer\PHPMailer' not found in /home3/jaspuebl/public_html/control/sendMail.php:9
+Stack trace:
+#0 /home3/jaspuebl/public_html/control/sendMail.php(29): sendMail(1, 'ortizjg30@gmail...')
+#1 {main}
+  thrown in /home3/jaspuebl/public_html/control/sendMail.php on line 9
+[11-May-2022 09:41:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer\PHPMailer\PHPMailer' not found in /home3/jaspuebl/public_html/control/sendMail.php:9
+Stack trace:
+#0 /home3/jaspuebl/public_html/control/sendMail.php(29): sendMail(1, 'ortizjg30@gmail...')
+#1 {main}
+  thrown in /home3/jaspuebl/public_html/control/sendMail.php on line 9
+[11-May-2022 09:42:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer\PHPMailer\PHPMailer' not found in /home3/jaspuebl/public_html/control/sendMail.php:9
+Stack trace:
+#0 /home3/jaspuebl/public_html/control/sendMail.php(29): sendMail(1, 'ortizjg30@gmail...')
+#1 {main}
+  thrown in /home3/jaspuebl/public_html/control/sendMail.php on line 9
+[11-May-2022 09:42:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer\PHPMailer\PHPMailer' not found in /home3/jaspuebl/public_html/control/sendMail.php:9
+Stack trace:
+#0 /home3/jaspuebl/public_html/control/sendMail.php(29): sendMail(1, 'ortizjg30@gmail...')
+#1 {main}
+  thrown in /home3/jaspuebl/public_html/control/sendMail.php on line 9
+[11-May-2022 09:42:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer\PHPMailer\PHPMailer' not found in /home3/jaspuebl/public_html/control/sendMail.php:9
+Stack trace:
+#0 /home3/jaspuebl/public_html/control/sendMail.php(29): sendMail(1, 'ortizjg30@gmail...')
+#1 {main}
+  thrown in /home3/jaspuebl/public_html/control/sendMail.php on line 9
+[11-May-2022 09:42:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer\PHPMailer\PHPMailer' not found in /home3/jaspuebl/public_html/control/sendMail.php:9
+Stack trace:
+#0 /home3/jaspuebl/public_html/control/sendMail.php(29): sendMail(1, 'ortizjg30@gmail...')
+#1 {main}
+  thrown in /home3/jaspuebl/public_html/control/sendMail.php on line 9
+[11-May-2022 09:43:27 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer\PHPMailer\PHPMailer' not found in /home3/jaspuebl/public_html/control/sendMail.php:9
+Stack trace:
+#0 /home3/jaspuebl/public_html/control/sendMail.php(29): sendMail(1, 'ortizjg30@gmail...')
+#1 {main}
+  thrown in /home3/jaspuebl/public_html/control/sendMail.php on line 9
+[11-May-2022 09:44:27 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer\PHPMailer\PHPMailer' not found in /home3/jaspuebl/public_html/control/sendMail.php:9
+Stack trace:
+#0 /home3/jaspuebl/public_html/control/sendMail.php(29): sendMail(1, 'ortizjg30@gmail...')
+#1 {main}
+  thrown in /home3/jaspuebl/public_html/control/sendMail.php on line 9
+[11-May-2022 09:45:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer\PHPMailer\PHPMailer' not found in /home3/jaspuebl/public_html/control/sendMail.php:9
+Stack trace:
+#0 /home3/jaspuebl/public_html/control/sendMail.php(29): sendMail(1, 'ortizjg30@gmail...')
+#1 {main}
+  thrown in /home3/jaspuebl/public_html/control/sendMail.php on line 9
+[11-May-2022 09:45:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer\PHPMailer\PHPMailer' not found in /home3/jaspuebl/public_html/control/sendMail.php:9
+Stack trace:
+#0 /home3/jaspuebl/public_html/control/sendMail.php(29): sendMail(1, 'ortizjg30@gmail...')
+#1 {main}
+  thrown in /home3/jaspuebl/public_html/control/sendMail.php on line 9
+[11-May-2022 09:46:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer\PHPMailer\PHPMailer' not found in /home3/jaspuebl/public_html/control/sendMail.php:9
+Stack trace:
+#0 /home3/jaspuebl/public_html/control/sendMail.php(29): sendMail(1, 'ortizjg30@gmail...')
+#1 {main}
+  thrown in /home3/jaspuebl/public_html/control/sendMail.php on line 9
+[11-May-2022 09:46:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer\PHPMailer\PHPMailer' not found in /home3/jaspuebl/public_html/control/sendMail.php:9
+Stack trace:
+#0 /home3/jaspuebl/public_html/control/sendMail.php(29): sendMail(1, 'ortizjg30@gmail...')
+#1 {main}
+  thrown in /home3/jaspuebl/public_html/control/sendMail.php on line 9
+[11-May-2022 09:46:57 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer\PHPMailer\PHPMailer' not found in /home3/jaspuebl/public_html/control/sendMail.php:9
+Stack trace:
+#0 /home3/jaspuebl/public_html/control/sendMail.php(29): sendMail(1, 'ortizjg30@gmail...')
+#1 {main}
+  thrown in /home3/jaspuebl/public_html/control/sendMail.php on line 9
